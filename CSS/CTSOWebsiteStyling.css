@@ -1,0 +1,192 @@
+/*
+colors
+Dark Blue:00334a
+Light Blue: 00a8c8
+White: White
+Light Green: 83c70a
+Dark Grey: 7a848f
+Light Grey: d0d6dd
+*/
+
+
+
+.h1 {
+	font-size: 100px;
+	color:#72c0e4;
+}
+
+
+.h2{
+	color: #d0d6dd;
+}
+.p1 {
+	font-size: 100px;
+	color: #72c0e4;
+}
+.p2 {
+	font-size: 15px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.pagination {
+	overflow-y: hidden;
+	display: inline-block;
+	left: 205px;
+	top: 55px;
+	position: fixed;
+	font-family: sans-serif;
+}
+
+.pagination a {
+	
+	background-color: #00a8c8;
+	overflow-x: hidden;
+	color: black;
+	float: left;
+	padding: 15px 25px;
+	text-decoration: none;
+	border: 1px solid #DDDDDD;
+	font-family: sans-serif;
+}
+
+
+
+.pagination a.active {
+	background-color: #00334a;
+	color: white;
+	border: 1px solid #DDDDDD;
+	font-family: sans-serif;
+}
+
+.pagination a:hover:not(.active) {
+	background-color: #83c70a;
+}
+
+.headbar{
+	overflow-x: hidden;
+	height: 20px;
+	width: 100%;
+	background-color:#00334a;
+	left: 0px;
+	top: 0px;
+	position: fixed;
+}
+
+.headbar2{
+	overflow-x: hidden;
+	height: 20px;
+	width: 100%;
+	background-color:#00334a ;
+	left: 0px;
+	top: 140px;
+	position: fixed;
+}
+
+.navbar {
+	overflow-x: hidden;
+	height: 40; 
+	width: 100%; 
+	position: fixed;
+	top: 20px;
+	left: 0px;
+	right: 0px;
+	background-color: #7a848f; 
+	font-family: sans-serif;
+}
+
+.sidebar2  {
+	overflow-x: hidden;
+	width: 52px;
+	height: 100%;
+	position: fixed;
+	z-index: 1;
+	top: 160px;
+	left: 0px;
+	background: #00334a ;
+	padding: 8px 0;
+	font-family: sans-serif;
+}
+
+body {
+        background-color: #d0d6dd;
+      }
+	  
+#main-content{
+	left: 52px;
+	top: 166px;
+	padding: 20px;
+	position: absolute;
+	font-family: sans-serif;
+}
+
+img {
+	overflow-x: hidden;
+	padding: 20px;
+	width: 150px;
+}
+
+
+
+
+/* Month header */
+.month {
+  padding: 20px 25px;
+  width: 1770px;
+  background: #00334a;
+  text-align: center;
+}
+
+/* Month list */
+.month ul {
+  margin: 0;
+  padding: 0;
+    text-align: center;
+}
+.month ul li {
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size:50px;
+    text-align: center;
+}
+
+/* Weekdays (Sunday-Saturday) */
+.weekdays {
+margin: 0;
+  padding: 10px 0;
+  background-color:#00a8c8;
+  text-align: center;
+}
+.weekdays li {
+	  
+	color: white;
+  display: inline-block;
+  width: 250px;
+  font-size:20px;
+  text-align: center;
+
+}
+
+/* Days (1-31) */
+.days {
+  background-color: #d0d6dd;
+  	list-style-type: none;
+	font-style: bold;
+}
+.days ul {
+	font-style: italic;
+	display: inline-block;
+	width: 250px;
+	margin-top: 4px;
+	font-size:15px;
+	color: #00334a;
+	
+  
+    border-style: solid;
+	border-color: #00334a;
+}
