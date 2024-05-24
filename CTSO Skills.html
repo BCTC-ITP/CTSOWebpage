@@ -3,8 +3,10 @@
 	<head>
 		<!--Andrew Stein-->
 		<link rel="stylesheet" href="CSS/CTSOWebsiteStyling.css">
+		<link rel="stylesheet" href="CSS/Dropdown.css">
 		<title>CTSO Website Home Page</title>
 		<link rel = "icon" type = "image/x-icon" href = "Pictures/BCTCLogo.png">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
 	<article>
 		<div id="main-content">
@@ -43,7 +45,13 @@
 		  </a>
 		  	<div class="pagination">
 				<a href="index.html">Home</a>
-				<a href="CTSO Upcoming Events.html">Upcoming Events</a>
+				<div class="Dropdown">
+					<a class="DropdownButton">Upcoming Events</a>
+					<div class="DropdownContent">
+						<a href="CTSO Upcoming Events West.html" class="Droplink">West Campus</a>
+						<a href="CTSO Upcoming Events East.html" class="Droplink">East Campus</a>
+					</div>
+				</div>
 				<a href="CTSO HOSA.html">HOSA</a>
 				<a class="active"  href="CTSO Skills.html">Skills</a>
 				<a href="CTSO NTHS.html">NTHS</a>

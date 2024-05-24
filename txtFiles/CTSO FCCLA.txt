@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--Andrew Stein-->
+		<link rel="stylesheet" href="CTSOWebsiteStyling.css">
+		<title>CTSO Website Home Page</title>
+		<link rel = "icon"	type = "image/x-icon"	href = "../Pictures/BCTCLogo.png"
+	</head>
+	<article>
+		<div id="main-content">
+			<body>
+			<!--start of body section, enter anything you want on the page here-->
+				<section id = "FCCLA">
+					<h1>Overview</h1>
+					<p>test</p>	
+
+				</section>
+				<!--End of body section-->
+			</body>
+		</div>
+	</article>
+	<header>
+		<div id="headbar" class="headbar"</div>
+		<div id="navbar" class="navbar">
+		  <a href="https://berkscareer.com/">
+			<img src="../Pictures/BCTCLogo.png" alt="BCTC Logo">
+		  </a>
+		<div class="pagination">
+		  <a href="./CTSO Home Page.html">Home</a>
+		  <a href="./CTSO Upcoming Events.html">Upcoming Events</a>
+		  <a href="./CTSO HOSA.html">HOSA</a>
+		  <a href="./CTSO Skills.html">Skills</a>
+		  <a href="./CTSO Student Ambassador.html">Student Ambassador</a>
+		  <a href="./CTSO NTHS.html">NTHS</a>
+		  <a class="active" href="./CTSO FCCLA.html">FCCLA</a>
+		  <a href="./CTSO FFA.html">FFA</a>
+		  <a href="./CTSO PBA.html">PBA</a>
+		</div>
+		</div>
+		<div id="headbar2" class="headbar2"</div>
+	</header>
+	<aside>
+		<div id="sidebar2" class="sidebar2"></div>
+	</aside>
+</html>

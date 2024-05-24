@@ -1,0 +1,45 @@
+.DropdownButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+  
+.Dropdown {
+    position: relative;
+    display: inline-block;
+}
+  
+.DropdownContent {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 125px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    top: 50px;
+    margin-left: 10px;
+}
+  
+.DropdownContent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    width: 145px;
+}
+  
+.DropdownContent a:hover {
+    background-color: #ddd;
+}
+  
+.Dropdown:hover .DropdownContent {
+    display: block;
+}
+  
+.Dropdown:hover .DropdownButton {
+    background-color: #3e8e41;
+}

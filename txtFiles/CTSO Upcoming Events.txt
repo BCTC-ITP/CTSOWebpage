@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!--Andrew Stein-->
+		<link rel="stylesheet" href="CTSOWebsiteStyling.css">
+		<title>CTSO Website Home Page</title>
+		<link rel = "icon"	type = "image/x-icon"	href = "../Pictures/BCTCLogo.png"
+	</head>
+
+	<article>
+		<div id="main-content">
+			<body>
+				<section id = "January 2024">
+					<div class="month">
+					  <ul>
+						<li>January<br><span style="font-size:18px">2024</span></li>
+					  </ul>
+					</div>
+
+					<ul class="weekdays">
+					  <li>Sunday</li>
+					  <li>Monday</li>
+					  <li>Tuesday</li>
+					  <li>Wednesday</li>
+					  <li>Thursday</li>
+					  <li>Friday</li>
+					  <li>Saturday</li>
+					</ul>
+
+					<ul class="days">
+					  <ul li>N/A<br><br><br><br><br><br></ul li>
+					  <ul>1<br><br><br><br><br><br></ul>
+					  <ul>2<br><br><br><br><br><br></ul>
+					  <ul>3<br><br><br><br><br><br> </ul>
+					  <ul>4<br><br><br><br><br><br> </ul>
+					  <ul>5<br><br><br><br><br><br> </ul>
+					  <ul>6<br><br><br><br><br><br> </ul>
+					  <ul>7<br><br><br><br><br><br> </ul>
+					  <ul>8<br><br><br><br><br><br> </ul>
+					  <ul>9<br><br><br><br><br><br> </ul>
+					  <ul>10<br><br><br><br><br><br> </ul>
+					  <ul>11<br><br><br><br><br><br> </ul>
+					  <ul>12<br><br><br><br><br><br> </ul>
+					  <ul>13<br><br><br><br><br><br> </ul>
+					  <ul>14<br><br><br><br><br><br> </ul>
+					  <ul>15<br><br><br><br><br><br> </ul>
+					  <ul>16<br><br><br><br><br><br> </ul>
+					  <ul>17<br><br><br><br><br><br> </ul>
+					  <ul>18<br><br><br><br><br><br> </ul>
+					  <ul>19<br><br><br><br><br><br> </ul>
+					  <ul>20<br><br><br><br><br><br> </ul>
+					  <ul>21<br><br><br><br><br><br> </ul>
+					  <ul>22<br><br><br><br><br><br> </ul>
+					  <ul>23<br><br><br><br><br><br> </ul>
+					  <ul>24<br><br><br><br><br><br> </ul>
+					  <ul>25<br><br><br><br><br><br> </ul>
+					  <ul>26<br><br><br><br><br><br> </ul>
+					  <ul>27<br><br><br><br><br><br> </ul>
+					  <ul>28<br><br><br><br><br><br> </ul>
+					  <ul>29<br><br><br><br><br><br> </ul>
+					  <ul>30<br><br><br><br><br><br> </ul>
+					  <ul>31<br><br><br><br><br><br> </ul>				  					  
+					</ul>	
+
+				</section>
+				
+				<ul li><br><br><br><br><br><br></ul li>
+				<section id = "February 2024">
+					<div class="month">
+					  <ul>
+						<li>February<br><span style="font-size:18px">2024</span></li>
+					  </ul>
+					</div>
+
+					<ul class="weekdays">
+					  <li>Sunday</li>
+					  <li>Monday</li>
+					  <li>Tuesday</li>
+					  <li>Wednesday</li>
+					  <li>Thursday</li>
+					  <li>Friday</li>
+					  <li>Saturday</li>
+					</ul>
+
+					<ul class="days">
+					  <ul li>N/A<br><br><br><br><br><br></ul li>
+					  <ul li>N/A<br><br><br><br><br><br></ul li>
+					  <ul li>N/A<br><br><br><br><br><br></ul li>
+					  <ul li>N/A<br><br><br><br><br><br></ul li>
+					  <ul>1<br><br><br><br><br><br></ul>
+					  <ul>2<br><br><br><br><br><br></ul>
+					  <ul>3<br><br><br><br><br><br> </ul>
+					  <ul>4<br><br><br><br><br><br> </ul>
+					  <ul>5<br><br><br><br><br><br> </ul>
+					  <ul>6<br><br><br><br><br><br> </ul>
+					  <ul>7<br><br><br><br><br><br> </ul>
+					  <ul>8<br><br><br><br><br><br> </ul>
+					  <ul>9<br><br><br><br><br><br> </ul>
+					  <ul>10<br><br><br><br><br><br> </ul>
+					  <ul>11<br><br><br><br><br><br> </ul>
+					  <ul>12<br><br><br><br><br><br> </ul>
+					  <ul>13<br><br><br><br><br><br> </ul>
+					  <ul>14<br><br><br><br><br><br> </ul>
+					  <ul>15<br><br><br><br><br><br> </ul>
+					  <ul>16<br><br><br><br><br><br> </ul>
+					  <ul>17<br><br><br><br><br><br> </ul>
+					  <ul>18<br><br><br><br><br><br> </ul>
+					  <ul>19<br><br><br><br><br><br> </ul>
+					  <ul>20<br><br><br><br><br><br> </ul>
+					  <ul>21<br><br><br><br><br><br> </ul>
+					  <ul>22<br><br><br><br><br><br> </ul>
+					  <ul>23<br><br><br><br><br><br> </ul>
+					  <ul>24<br><br><br><br><br><br> </ul>
+					  <ul>25<br><br><br><br><br><br> </ul>
+					  <ul>26<br><br><br><br><br><br> </ul>
+					  <ul>27<br><br><br><br><br><br> </ul>
+					  <ul>28<br><br><br><br><br><br> </ul>
+					  <ul>29<br><br><br><br><br><br> </ul>	  					  
+					</ul>	
+
+				</section>
+				<ul li><br><br><br><br><br><br></ul li>
+				<section id = "March 2024">
+					<div class="month">
+					  <ul>
+						<li>March<br><span style="font-size:18px">2024</span></li>
+					  </ul>
+					</div>
+
+					<ul class="weekdays">
+					  <li>Sunday</li>
+					  <li>Monday</li>
+					  <li>Tuesday</li>
+					  <li>Wednesday</li>
+					  <li>Thursday</li>
+					  <li>Friday</li>
+					  <li>Saturday</li>
+					</ul>
+					
+					<ul class="days">
+						<ul li>N/A<br><br><br><br><br><br></ul li>
+						<ul li>N/A<br><br><br><br><br><br></ul li>
+						<ul li>N/A<br><br><br><br><br><br></ul li>
+						<ul li>N/A<br><br><br><br><br><br></ul li>
+						<ul li>N/A<br><br><br><br><br><br></ul li>																								  
+					  <ul>1<br><br><br><br><br><br></ul>
+					  <ul>2<br><br><br><br><br><br></ul>
+					  <ul>3<br><br><br><br><br><br> </ul>
+					  <ul>4<br><br><br><br><br><br> </ul>
+					  <ul>5<br><br><br><br><br><br> </ul>
+					  <ul>6<br><br><br><br><br><br> </ul>
+					  <ul>7<br><br><br><br><br><br> </ul>
+					  <ul>8<br><br><br><br><br><br> </ul>
+					  <ul>9<br><br><br><br><br><br> </ul>
+					  <ul>10<br><br><br><br><br><br> </ul>
+					  <ul>11<br><br><br><br><br><br> </ul>
+					  <ul>12<br><br><br><br><br><br> </ul>
+					  <ul>13<br><br><br><br><br><br> </ul>
+					  <ul>14<br><br><br><br><br><br> </ul>
+					  <ul>15<br><br><br><br><br><br> </ul>
+					  <ul>16<br><br><br><br><br><br> </ul>
+					  <ul>17<br><br><br><br><br><br> </ul>
+					  <ul>18<br><br><br><br><br><br> </ul>
+					  <ul>19<br><br><br><br><br><br> </ul>
+					  <ul>20<br><br><br><br><br><br> </ul>
+					  <ul>21<br><br><br><br><br><br> </ul>
+					  <ul>22<br><br><br><br><br><br> </ul>
+					  <ul>23<br><br><br><br><br><br> </ul>
+					  <ul>24<br><br><br><br><br><br> </ul>
+					  <ul>25<br><br><br><br><br><br> </ul>
+					  <ul>26<br><br><br><br><br><br> </ul>
+					  <ul>27<br><br><br><br><br><br> </ul>
+					  <ul>28<br><br><br><br><br><br> </ul>
+					  <ul>29<br><br><br><br><br><br> </ul>
+					  <ul>30<br><br><br><br><br><br> </ul>
+					  <ul>31<br><br><br><br><br><br> </ul>				  					  
+					</ul>	
+
+				</section>
+			</body>
+		</div>
+	</article>
+	
+	<header>
+		<div id="headbar" class="headbar"</div>
+
+		<div id="navbar" class="navbar">
+		  <a href="https://berkscareer.com/">
+			<img src="../Pictures/BCTCLogo.png" alt="BCTC Logo">
+		  </a>
+		<div class="pagination">
+		  <a href="./CTSO Home Page.html">Home</a>
+		  <a class="active" href="./CTSO Upcoming Events.html">Upcoming Events</a>
+		  <a href="./CTSO HOSA.html">HOSA</a>
+		  <a href="./CTSO Skills.html">Skills</a>
+		  <a href="./CTSO Student Ambassador.html">Student Ambassador</a>
+		  <a href="./CTSO NTHS.html">NTHS</a>
+		  <a href="./CTSO FCCLA.html">FCCLA</a>
+		  <a href="./CTSO FFA.html">FFA</a>
+		  <a href="./CTSO PBA.html">PBA</a>
+		</div>
+		</div>
+		
+		<div id="headbar2" class="headbar2"</div>
+	</header>
+
+	<aside>
+		<div id="sidebar2" class="sidebar2"></div>
+	</aside>
+</html>
